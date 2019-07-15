@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample1</string>
+    <string name="ten_moi">abc %d</string>
+</resources>
